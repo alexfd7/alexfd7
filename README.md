@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 # HI 👋
 
 ## My name is Alexandre Freitas Duarte and I work as a Systems Analyst ##
