@@ -14,5 +14,5 @@
 ### Find me elsewhere 🌎
 
 🚀 [Site](http://afreitasduarte.com.br/) <br>
-🌲 [Twitter](https://linktr.ee/alexandre.freitas) <br>
+🌲 [Linktr](https://linktr.ee/alexandre.freitas) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/afreitasduarte/) <br>
