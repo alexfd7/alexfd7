@@ -2,7 +2,7 @@
 
 ## My name is Alexandre Freitas Duarte and I work as a Systems Analyst. ##
 
-## Experience and working for 10 years, in the area of ​​systems development in general (Back and Front), UX/UI, process automation, requirements gathering, process mapping, data analysis, database, systems integration, microservices. ##
+## Experience and working for 13 years, in the area of ​​systems development in general (Back and Front), UX/UI, process automation, requirements gathering, process mapping, data analysis, database, systems integration, microservices. ##
 
 - 📍 Living in Ribeirao Preto, SP
 
