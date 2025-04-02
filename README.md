@@ -16,3 +16,12 @@
 🚀 [Site](http://afreitasduarte.com.br/) <br>
 🌲 [Linktr](https://linktr.ee/alexandre.freitas) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/afreitasduarte/) <br>
+
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexfd7/alexfd7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexfd7/alexfd7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alexfd7/Kelvinhcs/output/pacman-contribution-graph.svg">
+</picture>
