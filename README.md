@@ -33,14 +33,6 @@
 
 ![snake gif](./dist/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/alexfd7/alexfd7/raw/output/github-contribution-grid-snake.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexfd7/alexfd7/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexfd7/alexfd7/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/alexfd7/alexfd7/output/github-contribution-grid-snake.svg" />
-</picture>
-
 
 ## Visitors
 ![Visitor Count](https://profile-counter.glitch.me/alexfd7/count.svg)
