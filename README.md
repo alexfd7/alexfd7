@@ -31,13 +31,9 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexfd7/alexfd7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexfd7/alexfd7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alexfd7/alexfd7/output/pacman-contribution-graph.svg">
-</picture>
+![snake gif](./dist/github-contribution-grid-snake.svg)
 
-
+![snake gif](https://github.com/alexfd7/alexfd7/raw/output/github-contribution-grid-snake.svg)
 
 ## Visitors
 ![Visitor Count](https://profile-counter.glitch.me/alexfd7/count.svg)
