@@ -132,5 +132,3 @@
 </picture>
 
 
-## Visitors
-![Visitor Count](https://profile-counter.glitch.me/alexfd7/count.svg)
